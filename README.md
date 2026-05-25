@@ -1,2 +1,0 @@
-# SteamAccount-nfo
-ok bruw
